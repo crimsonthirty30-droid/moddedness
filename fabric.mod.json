@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "buildassist",
+  "version": "${version}",
+  "name": "Build Assist",
+  "description": "Menu with fast flight, reach, knockback, hit-swap, trackers, finders and one-click builders.",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.example.buildassist.BuildAssistClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

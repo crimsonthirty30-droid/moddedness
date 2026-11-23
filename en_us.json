@@ -1,0 +1,8 @@
+{
+  "key.buildassist.menu": "Open Build Assist menu",
+  "key.buildassist.players": "Toggle player tracker",
+  "key.buildassist.chests": "Toggle chest finder",
+  "key.buildassist.lights": "Toggle artificial light finder",
+  "key.buildassist.aim": "Aim assist (hold)",
+  "key.category.buildassist.main": "Build Assist"
+}
